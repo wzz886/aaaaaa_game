@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+LuaToCSharp.GetUIText(self.object, "Contents/Text")
+]]></content>
+    <tabTrigger>gettxt</tabTrigger>
+    <scope>source.lua</scope>
+    <description>获取txt</description>
+</snippet>
+

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+	ui.XXX_scroll_obj  = LuaToCSharp.GetGameObject(self.object, "Contents/Server_ScrollView")
+	ui.XXX_scroll_ui   = LuaToCSharp.GetUIScrollRect(ui.scroll_obj, "Viewport/Content")
+	ui.XXX_scroll_rect = LuaToCSharp.GetScrollRect(ui.scroll_obj)
+]]></content>
+    <tabTrigger>getscroll</tabTrigger>
+    <scope>source.lua</scope>
+    <description>获取scroll</description>
+</snippet>
+

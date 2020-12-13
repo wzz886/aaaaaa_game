@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+LuaToCSharp.GetUIInputField(self.object, "Contents/PswInput")
+]]></content>
+    <tabTrigger>getinput</tabTrigger>
+    <scope>source.lua</scope>
+    <description>获取input</description>
+</snippet>
+

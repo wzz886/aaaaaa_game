@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+	local display_count = LuaToCSharp.InitUIScrollRect(ui.XXX_scroll_ui, ui.XXX_scroll_rect, 
+		CELL_W, CELL_H, #info,
+		function (data_index, item_index)
+			if self.update_list_ui ~= nil then
+				self.update_list_ui(self.control, data_index + 1, item_index + 1)
+			end
+		end
+	)
+
+	for i = 1, display_count do
+		local item = XXXItemUI.new("XXXX_item", 
+			ui.XXX_scroll_ui,
+			info[i],
+			${TM_FILENAME/(.+)\..+/$1/}.updateItem,
+			self)
+		self.item_list[i] = item
+	end
+]]></content>
+    <tabTrigger>createscroll</tabTrigger>
+    <scope>source.lua</scope>
+    <description>创建一个scroll</description>
+</snippet>
+

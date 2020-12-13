@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+LuaToCSharp.GetUIButton(self.object, "Contents/close_btn")
+]]></content>
+    <tabTrigger>getbtn</tabTrigger>
+    <scope>source.lua</scope>
+    <description>获取btn</description>
+</snippet>
+
