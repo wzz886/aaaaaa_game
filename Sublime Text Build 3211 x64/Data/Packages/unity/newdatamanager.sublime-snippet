@@ -3,10 +3,10 @@
     <content><![CDATA[
 -- **********************************************************************
 -- Copyright (c) Lakoo
--- File     ：${1:${TM_FILENAME/(.+)\..+/$1/}}.lua
--- Author   ：WZZ
--- Created  ：
--- Purpose  ：$1 data manager
+-- File     : ${1:${TM_FILENAME/(.+)\..+/$1/}}.lua
+-- Author   : WZZ
+-- Created  : 
+-- Purpose  : $1 data manager
 -- **********************************************************************
 
 
