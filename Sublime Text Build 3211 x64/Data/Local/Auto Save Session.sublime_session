@@ -1,0 +1,569 @@
+{
+	"folder_history":
+	[
+		"/D/aaaaaa_game/python 3 Tool",
+		"/D/aaaaaa_game/Lua Tool",
+		"/D/myGitHupTest",
+		"/D/work/python 3 Tool",
+		"/F/new",
+		"/F/work/client/src",
+		"/E/桌面文件"
+	],
+	"last_version": 3211,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 868.8,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Add",
+						"ADD_ONE\t(BagEvent.lua)"
+					],
+					[
+						"lo",
+						"lognotice\t打印信息"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: a",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: c",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/show_lang_tips.py",
+				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/example.py",
+				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/learn_sublime.py",
+				"/E/桌面文件/luaTest.lua",
+				"/F/work/client/src/ui/TreeBaseItem.lua",
+				"/F/work/client/src/modules/bag/BagView.lua",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/破解说明.txt"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 40.8
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 203.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Lua54.sublime-build",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1016.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"my",
+						"myiter\tabc"
+					],
+					[
+						"list",
+						"list1\tabc"
+					],
+					[
+						"set",
+						"set3\tabc"
+					],
+					[
+						"TR",
+						"True\t(copy file.py)"
+					],
+					[
+						"Add",
+						"ADD_ONE\t(BagEvent.lua)"
+					],
+					[
+						"lo",
+						"lognotice\t打印信息"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/User/add_info.py",
+					"settings":
+					{
+						"buffer_size": 320,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/aaaaaa_game/Lua Tool/luaTest.lua",
+					"settings":
+					{
+						"buffer_size": 11,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: a",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: c",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/aaaaaa_game/Lua Tool",
+				"/D/aaaaaa_game/python 3 Tool"
+			],
+			"file_history":
+			[
+				"/D/myGitHupTest/test.lua",
+				"/D/work/python 3 Tool/luatest.lua",
+				"/D/aaaaaaa_game/.gitignore",
+				"/D/Sublime Text Build 3211 x64/破解说明.txt",
+				"/D/work/python 3 Tool/copy file.py",
+				"/F/wzz/远古/Scripts/UI/Editor/UIVariableTableEditor.cs",
+				"/F/wzz/远古/Scripts/UI/UIVariableTable.cs",
+				"/F/wzz/远古/common/make_language/帮助说明.txt",
+				"/F/wzz/远古/Scripts/Editor/Tools/ChangeFontWindow.cs",
+				"/F/Unity  Learn/XluaGame2018/Assets/Editor/ChangeFont.txt",
+				"/E/桌面文件/感悟.txt",
+				"/E/桌面文件/python 3 Tool/learn_dict.py",
+				"/E/桌面文件/python 3 Tool/learn_tuple.py",
+				"/E/桌面文件/python 3 Tool/learn_def.py",
+				"/E/桌面文件/python 3 Tool/learn_iterator.py",
+				"/E/桌面文件/python 3 Tool/learn_condition.py",
+				"/E/桌面文件/python 3 Tool/learn_base.py",
+				"/E/桌面文件/python 3 Tool/learn_algorithm.py",
+				"/E/桌面文件/python 3 Tool/learn_set.py",
+				"/E/桌面文件/python 3 Tool/learn_list.py",
+				"/E/桌面文件/python 3 Tool/learn_str.py",
+				"/E/桌面文件/python 3 Tool/learn_number.py",
+				"/E/桌面文件/python 3 Tool/learn_operate.py",
+				"/F/new/LuaScript/Common/Lang.lua",
+				"/F/new/Editor/BundleTool/BuildBundle.cs",
+				"/F/new/LuaScript/UI/SelectCharacterUI/SelectCharBtnUI.lua",
+				"/E/桌面文件/Unity API 2018_4/Vector3Int",
+				"/E/桌面文件/Unity API 2018_4/Transform",
+				"/E/桌面文件/Unity API 2018_4/Time",
+				"/E/桌面文件/Unity API 2018_4/RectTransform",
+				"/E/桌面文件/Unity API 2018_4/Object",
+				"/E/桌面文件/Unity API 2018_4/MonoBehaviour",
+				"/E/桌面文件/python 3 Tool/copy file.py",
+				"/F/有用的软件/工作环境需要/ps切图脚本/psd删除原数据.jsx",
+				"/E/桌面文件/luaTest.lua",
+				"/E/桌面文件/python 3 Tool/learn_dict.py/",
+				"/E/桌面文件/python 3 Tool/learn_string.py",
+				"/E/桌面文件/python 3 Tool/learn_annotation.py",
+				"/F/有用的软件/工作环境需要/Sublime Text Build 3211 x64/Data/Packages/User/MyPython3.sublime-build",
+				"/F/有用的软件/工作环境需要/Sublime Text Build 3211 x64/Data/Packages/User/MyPython2.sublime-build",
+				"/F/有用的软件/Sublime Text Build 3211 x64/Data/Packages/User/Lua54.sublime-build",
+				"/C/lua-5.4.1/build.bat",
+				"/F/work/client/src/modules/bag/BagEvent.lua",
+				"/F/work/client/src/modules/bag/view/BagTipView.lua",
+				"/F/有用的软件/Sublime Text Build 3211 x64/破解说明.txt",
+				"/C/lua-5.4.1/Makefile",
+				"/C/lua-5.4.1/build.bat.txt",
+				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/Lua54.sublime-build",
+				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/show_lang_tips.py",
+				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/example.py",
+				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/learn_sublime.py",
+				"/F/work/client/src/ui/TreeBaseItem.lua",
+				"/F/work/client/src/modules/bag/BagView.lua",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/破解说明.txt"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 104.8,
+				"where_history":
+				[
+					"F:\\new",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"resConfig",
+					"login",
+					"ATTR_ID",
+					"initWindowCallback",
+					"(",
+					"2",
+					"))\n",
+					"单"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\myGitHupTest"
+				},
+				{
+					"path": "D:\\aaaaaa_game\\Lua Tool"
+				},
+				{
+					"path": "D:\\aaaaaa_game\\python 3 Tool"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/User/add_info.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 320,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										316,
+										316
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/aaaaaa_game/Lua Tool/luaTest.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11,
+										11
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Lua/Lua.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 40.8
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 178.0
+			},
+			"output.find_results":
+			{
+				"height": 127.0
+			},
+			"pinned_build_system": "Packages/User/MyPython3.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,1130,765,53,2010",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
