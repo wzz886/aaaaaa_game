@@ -1,0 +1,71 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+-- **********************************************************************
+-- Copyright (c) Lakoo
+-- File     ：${1:${TM_FILENAME/(.+)\..+/$1/}}.lua
+-- Author   ：WZZ
+-- Created  ：
+-- Purpose  ：
+-- **********************************************************************
+
+
+${1:${TM_FILENAME/(.+)\..+/$1/}} = class("$1", UIWindow)
+
+
+----------------------------------------
+-- ctor
+function $1:ctor()
+    self.super:ctor()
+
+    self.ui = {}
+end
+
+
+----------------------------------------
+-- destory self & register function
+function $1:destory()
+    UIWindow.destory(self)
+
+    local ui = self.ui
+    if ui.close_btn_click_func then
+        LuaToCSharp.RemoveButtonOnClick(ui.close_btn_right, ui.close_btn_click_func)
+    end
+
+    self.ui      = nil
+    self.control = nil
+end
+
+
+----------------------------------------
+-- get user define ui object
+function $1:initUIObject()
+    local ui = {}
+
+	ui.close_btn_right = LuaToCSharp.GetUIButton(self.object, "bg_img/close_btn")
+
+    ui.close_btn_click_func = UnityEngine.Events.UnityAction(
+        function()
+            UIManager:destoryWindow("$1")
+        end)
+    LuaToCSharp.AddButtonOnClick(ui.close_btn_right, ui.close_btn_click_func)
+
+    self.ui = ui
+end
+
+
+----------------------------------------
+-- init ui callback
+function $1:initCallBack()
+
+end
+
+
+]]></content>
+    <!– Optional: Set a tabTrigger –>
+    <tabTrigger>newui</tabTrigger>
+    <!– Optional: Set a scope –>
+    <scope>source.lua</scope>
+    <description>创建新ui</description>
+</snippet>
+

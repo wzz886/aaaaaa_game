@@ -1,0 +1,39 @@
+<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+-- **********************************************************************
+-- Copyright (c) Lakoo
+-- File     ：${1:${TM_FILENAME/(.+)\..+/$1/}}.lua
+-- Author   ：WZZ
+-- Created  ：
+-- Purpose  ：$1 data manager
+-- **********************************************************************
+
+
+require "Framework/ManagerBase"
+${1:${TM_FILENAME/(.+)\..+/$1/}} = class("$1", ManagerBase)
+
+
+----------------------------------------
+-- ctor
+function $1:ctor()
+
+end
+
+
+----------------------------------------
+-- destory self & register function
+function $1:destory()
+    ManagerBase.destory(self)
+
+end
+
+
+]]></content>
+    <!– Optional: Set a tabTrigger –>
+    <tabTrigger>newdatamanager</tabTrigger>
+    <!– Optional: Set a scope –>
+    <scope>source.lua</scope>
+    <description>创建新dataManager</description>
+</snippet>
+

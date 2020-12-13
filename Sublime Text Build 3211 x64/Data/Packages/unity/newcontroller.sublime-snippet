@@ -1,0 +1,67 @@
+<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+-- **********************************************************************
+-- Copyright (c) Lakoo
+-- File     ：${1:${TM_FILENAME/(.+)\..+/$1/}}.lua
+-- Author   ：WZZ
+-- Created  ：
+-- Purpose  ：$1 ui controller
+-- **********************************************************************
+
+
+require "Framework/ControllerBase"
+$1 = class("$1", ControllerBase)
+
+
+----------------------------------------
+-- ctor
+function $1:ctor()
+	self.super:ctor()
+	self:initInfo()
+	self.window_name = "XXXX UI"
+	self.window_folder = "XXXX UI"
+	self.window_asset_name = "XXXX"
+end
+
+
+----------------------------------------
+-- destory self & register function
+function $1:destory()
+    ControllerBase.destory(self)
+end
+
+
+----------------------------------------
+-- clear info
+function $1:clear()
+	ControllerBase.clear(self)
+end
+
+
+----------------------------------------
+-- init info
+function $1:initInfo()
+	self.data = UIDataManager:getInfo("XXXXInfoManager")
+end
+
+
+----------------------------------------
+-- init window param
+function $1:initWindowParam()
+	self:setWindowParam(
+		{
+			["control"] = self,
+		}
+	)
+end
+
+
+]]></content>
+    <!– Optional: Set a tabTrigger –>
+    <tabTrigger>newcontroller</tabTrigger>
+    <!– Optional: Set a scope –>
+    <scope>source.lua</scope>
+    <description>创建新controller</description>
+</snippet>
+

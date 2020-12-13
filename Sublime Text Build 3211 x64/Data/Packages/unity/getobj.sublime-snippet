@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+LuaToCSharp.GetGameObject(self.object, "bg_img/scroll")
+]]></content>
+    <tabTrigger>getobj</tabTrigger>
+    <scope>source.lua</scope>
+    <description>获取obj</description>
+</snippet>
