@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+local $1M = GlobalUtil.getModel("${1/./\U$&/}")
+]]></content>
+    <!¨C Optional: Set a tabTrigger ¨C>
+    <tabTrigger>getModel</tabTrigger>
+    <!¨C Optional: Set a scope ¨C>
+    <scope>source.lua</scope>
+    <description>path</description>
+</snippet>

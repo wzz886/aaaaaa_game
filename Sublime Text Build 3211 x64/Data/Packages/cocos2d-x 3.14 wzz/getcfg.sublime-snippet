@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+local ${1:Skill}Cfg = GlobalUtil.getCfg("${1:Skill}")
+]]></content>
+    <!¨C Optional: Set a tabTrigger ¨C>
+    <tabTrigger>getcfg</tabTrigger>
+    <!¨C Optional: Set a scope ¨C>
+    <scope>source.lua</scope>
+    <description>获取配置</description>
+</snippet>

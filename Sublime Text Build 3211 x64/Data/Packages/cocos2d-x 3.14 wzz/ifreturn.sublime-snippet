@@ -1,0 +1,12 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+if 1 == 1 then return end
+]]></content>
+    <!– Optional: Set a tabTrigger 设置补全命令 –>
+    <tabTrigger>ifreturn</tabTrigger>
+    <!– Optional: Set a scope 设置生效语言 –>
+    <scope>source.lua</scope>
+    <description>创建if 1 == 1 then return end</description>
+</snippet>
+

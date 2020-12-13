@@ -1,0 +1,43 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+-- 初始滚动列表 ${2:${TM_FILENAME/View(.+)//}}
+function ${1:${TM_FILENAME/(.+)\..+/$1/}}:initList()
+    local toView = self
+    local ${3:listView} = require("component.ScrollGridVC").new(toView.${4:slist})
+    -- $3:setColNum(8)
+    local itemSize = toView.${5:cellRect}:getContentSize()
+    toView.${5:cellRect}:removeFromParent()
+    $3:setItemSize(itemSize.width,itemSize.height)
+    local function createItemFun( vo,index )
+        return UIUtils.csLoad("csb/${7:${TM_FILEPATH/((.+)module\/)|(\/(.+)\.lua)//g}}/$2Item")
+    end
+    $3.createItemFun = createItemFun
+    local function updateItemFun(item,data)
+    --     item:setData(data)
+    end
+    $3.updateItemFun = updateItemFun
+    -- local function itemSelectFun(item,value,index)
+    --     item.txtNum:setVisible(value == false)
+    -- end
+    -- $3.itemSelectFun = itemSelectFun
+    local function touchCell( item )
+        cclog(item.itemData)
+    end
+    $3:registerTouch(touchCell)
+    -- $3:setList({1,2,3,4,5,6,7,10,11,12,13,14,15})
+    self.$3 = $3
+end
+
+    if self.$3 then
+        self.$3:dispose()
+        self.$3 = nil
+    end
+]]></content>
+    <!– Optional: Set a tabTrigger –>
+    <tabTrigger>scrollVC</tabTrigger>
+    <!– Optional: Set a scope –>
+    <scope>source.lua</scope>
+    <description>scroll vc</description>
+</snippet>
+

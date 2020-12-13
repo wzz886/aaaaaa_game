@@ -1,0 +1,43 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+-- 初始滚动列表 ${2:${TM_FILENAME/View(.+)//}}
+function ${1:${TM_FILENAME/(.+)\..+/$1/}}:initList()
+    local ${3:listView} = require("ui.ScrollGridView").new(self.${4:slist})
+    -- $3:setColNum(9)
+    
+    local itemSize = self.${5:cellRect}:getContentSize()
+    $3:setItemSize(itemSize.width,itemSize.height)
+    self.${5:cellRect}:removeFromParent()
+    
+    $3.createItemFun = function(vo, index)
+        return UIUtil.csLoad("csb/${7:${TM_FILEPATH/((.+)module\/)|(\/(.+)\.lua)//g}}/$2Item")
+    end
+    
+    $3.updateItemFun = function(item, data)
+        -- item:setData(data)
+    end
+    
+    $3.itemSelectFun = function(item, value, index)
+        -- item.txtNum:setVisible(value == false)
+    end
+    
+    $3:registerTouch(function(item)
+        LogUtil.debug(item.itemData)
+    end)
+    
+    -- $3:setList({1, 2, 3, 4, 5})
+    self.$3 = $3
+end
+
+    if self.$3 then
+        self.$3:dispose()
+        self.$3 = nil
+    end
+]]></content>
+    <!– Optional: Set a tabTrigger –>
+    <tabTrigger>scrollLs2</tabTrigger>
+    <!– Optional: Set a scope –>
+    <scope>source.lua</scope>
+</snippet>
+

@@ -1,0 +1,45 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+-- 初始列表
+function ${1:${TM_FILENAME/(.+)\..+/$1/}}:initList()
+	local toView = self.cuiView
+	local toPanel = toView.${2:slist}
+	local ${4:listView} = require("base.GridView").new(toPanel:getContentSize())
+--    ${4:listView}.itemWidth = toView.cell_1:getPositionX() - toView.cell_2:getPositionX()
+    local itmHeight = toView.cell_1:getPositionY() - toView.cell_2:getPositionY()
+    ${4:listView}.itemHeight = itmHeight
+    ${4:listView}.tableCellAtFun = function(view,idx,itemVo )
+        local tbItem = view:dequeueCell()
+        if not tbItem then
+            tbItem = cc.TableViewCell:new()
+        end
+        local cellItm = tbItem.cell
+        if not cellItm then
+            cellItm = CCBLoader("ccb2/${3:item}.ccbi")
+            tbItem.cell = cellItm
+            tbItem:addChild(cellItm)
+        end
+
+        return tbItem
+    end
+
+    -- ${4:listView}.root:registerScriptHandler(touchedCell, cc.TABLECELL_TOUCHED)
+    ${4:listView}:addUpParent(toPanel)
+    self.${4:listView} = ${4:listView}
+    -- ${4:listView}:setList({1,2,3,4,5},false)
+end
+
+
+    if self.${4:listView} then
+        self.${4:listView}:dispose()
+        self.${4:listView} = nil
+    end
+]]></content>
+    <!– Optional: Set a tabTrigger 设置补全命令 –>
+    <tabTrigger>createlist</tabTrigger>
+    <!– Optional: Set a scope 设置生效语言 –>
+    <scope>source.lua</scope>
+    <description>创建list</description>
+</snippet>
+

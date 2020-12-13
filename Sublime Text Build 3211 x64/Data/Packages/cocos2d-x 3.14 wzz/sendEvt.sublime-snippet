@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+GlobalEvent:sendEvent(${2/./\U$&/}Event.${2:${TM_FILEPATH/((.+)module\/)|(\/(.+)\.lua)//g}})
+]]></content>
+    <!¨C Optional: Set a tabTrigger ¨C>
+    <tabTrigger>sendEvt</tabTrigger>
+    <!¨C Optional: Set a scope ¨C>
+    <scope>source.lua</scope>
+    <description>发送事件</description>
+</snippet>

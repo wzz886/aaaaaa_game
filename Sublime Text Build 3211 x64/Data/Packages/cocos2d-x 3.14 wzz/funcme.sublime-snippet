@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+function ${TM_FILENAME/(.+)\..+/$1/}:${2:doSome}()
+end
+]]></content>
+    <tabTrigger>funcme</tabTrigger>
+    <scope>source.lua</scope>
+    <description>快速创建self函数</description>
+</snippet>

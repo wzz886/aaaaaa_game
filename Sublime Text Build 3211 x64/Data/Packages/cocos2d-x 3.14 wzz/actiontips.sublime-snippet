@@ -1,0 +1,15 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+cc.Sequence:create(action)
+cc.DelayTime:create(times)
+cc.CallFunc:create(func)
+cc.RepeatForever:create(action)
+]]></content>
+    <!– Optional: Set a tabTrigger 设置补全命令 –>
+    <tabTrigger>actiontips</tabTrigger>
+    <!– Optional: Set a scope 设置生效语言 –>
+    <scope>source.lua</scope>
+    <description>cc常用action</description>
+</snippet>
+

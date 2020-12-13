@@ -1,0 +1,30 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+-- 初始标签页
+function ${4:${TM_FILENAME/(.+)\..+/$1/}}:initTab()
+
+    self.${1:tabC} = require("ui.TabCtrl").new()
+    self.${1:tabC}:initTabByNum(self.${2:cuiView},4,"${3:tab_}")
+
+    -- 注册点击标签的返回
+    local function btnCallback(cell,index)
+        -- self:updateRight(self.${1:tabC}.tabIndex)
+    end
+    self.${1:tabC}.clickBackFun = btnCallback
+
+    self.${1:tabC}:changeSwitch(1)
+end
+
+    if self.${1:tabC} then
+        self.${1:tabC}:dispose()
+        self.${1:tabC} = nil
+    end
+]]></content>
+    <!– Optional: Set a tabTrigger 设置补全命令 –>
+    <tabTrigger>tabCtrl</tabTrigger>
+    <!– Optional: Set a scope 设置生效语言 –>
+    <scope>source.lua</scope>
+    <description>创建tabCtrl</description>
+</snippet>
+

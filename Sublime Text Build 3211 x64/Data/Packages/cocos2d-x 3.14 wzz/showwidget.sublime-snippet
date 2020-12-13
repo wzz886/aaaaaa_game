@@ -1,0 +1,29 @@
+<snippet>
+    <content><![CDATA[
+----------------------------------------开始--------------------------------------------------------
+    require("util.UIUtil")
+    local view = UIUtil.csLoad("${1:----csb地址---}")
+    local str1, str2 = UIUtil.printChildName(view, 2)
+    str2 = string.gsub(str2, "%s", "")
+    str2 = string.gsub(str2, "\"", "")
+    local tab = StringUtil.stringSplit(str2, ",")
+    table.sort(tab, function(a, b) return a < b end)
+
+    local str = "\nfunction viewName:getViewNameList() \n\treturn {\n\t\t"
+    for k, v in ipairs(tab) do
+        if v ~= "" then
+            if k == #tab then
+                str = str .. "\"" .. v .. "\"" .. ",\n\t"
+            else
+                str = str .. "\"" .. v .. "\"" .. ",\n\t\t"
+            end
+        end
+    end
+    str = str .. "}\nend"
+    LogUtil.info("-----控件名----start----\n" .. str .. "\n\n-----控件名----end------")
+----------------------------------------结束--------------------------------------------------------
+]]></content>
+    <tabTrigger>showwidget</tabTrigger>
+    <scope>source.lua</scope>
+    <description>打印控件名</description>
+</snippet>

@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+${2:${TM_FILEPATH/\//\./g}}
+${3:${2/.*src\.//}}
+local ${1:view} = require2("${3/\.lua//}"):create()
+SceneMgr.pushPanel($1)
+self.cuiView:addChild($1)
+local ${TM_FILENAME/\.lua//} = require2("${3/\.lua//}").new()
+require2("${3/\.lua//}")
+
+	]]></content>
+    <!¨C Optional: Set a tabTrigger ¨C>
+    <tabTrigger>pathcocos</tabTrigger>
+    <!¨C Optional: Set a scope ¨C>
+    <scope>source.lua</scope>
+    <description>cocos文件路径</description>
+</snippet>

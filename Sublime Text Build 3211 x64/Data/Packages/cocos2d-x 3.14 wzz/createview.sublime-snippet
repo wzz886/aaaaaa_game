@@ -1,0 +1,52 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+--[[
+${5:${TM_FILEPATH/((.+)module\/)|(\/(.+)\.lua)//g}} ${4:${TM_FILENAME/View(.+)//}}
+$3
+Author: wzz
+Date:${2:2019}
+--]]
+local ${1:${TM_FILENAME/(.+)\..+/$1/}} = class("$1",BaseLayer)
+
+-- 初始
+function $1:init()
+	self:setSwallow(true)
+
+--     self:initView("csb/$5/$4Layer")
+--     self.model = GlobalUtil.getModel("${5/./\U$&/}")$6
+
+	return true;
+end
+
+-- 获取控件
+function $1:getViewNameLs()
+    return {
+    "btn_close",
+    "slist",
+    "cellRect",
+    }
+end
+
+-- 界面刷新
+function $1:updateView()
+
+end
+
+-- 移除
+function $1:onExit()
+	self.model = nil
+
+    $1.super.onExit(self)
+end
+
+
+return $1
+]]></content>
+    <!– Optional: Set a tabTrigger –>
+    <tabTrigger>createview</tabTrigger>
+    <!– Optional: Set a scope –>
+    <scope>source.lua</scope>
+    <description>创建view文件基本内容</description>
+</snippet>
+

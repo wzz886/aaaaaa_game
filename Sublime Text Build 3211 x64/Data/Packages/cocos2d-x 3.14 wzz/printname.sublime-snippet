@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+UIUtil.printViewNameList(self.cuiView)
+]]></content>
+    <!¨C Optional: Set a tabTrigger ¨C>
+    <tabTrigger>printname</tabTrigger>
+    <!¨C Optional: Set a scope ¨C>
+    <scope>source.lua</scope>
+    <description>打印控件名</description>
+</snippet>

@@ -1,0 +1,13 @@
+{
+    // "shell_cmd": ["G:/work/cpp/dbTool/Debug/dbTool.exe", "$file"],
+    // "shell_cmd": ["G:/work/cpp/dbTest/x64/Debug/dbTest.exe", "$file"],
+     // "shell_cmd": "g++ \"${file}\" -o \"${file_path}/${file_base_name}\"",
+    //"shell_cmd": "D:/work/cpp/dbTool/Release/dbTool.exe",
+    "shell_cmd": "E:/banshu/client/simulator/win32/jqKing.exe -console 0",
+    "file_regex": "^(?:lua:)?[\t ](...*?):([0-9]*):?([0-9]*)",
+    // "selector": "source.lua",
+    // "working_dir": "${file_path}",
+    "encoding": "cp936",
+    // G:/work/BestGame/server/code
+    "working_dir": "E:/banshu/client",
+}

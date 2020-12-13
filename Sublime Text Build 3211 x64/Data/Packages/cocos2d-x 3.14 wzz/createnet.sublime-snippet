@@ -1,0 +1,23 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+
+-- 请求 $3
+function ${2:${TM_FILENAME/(.+)\..+/$1/}}:sendC2S$1(id)
+    local vo = {}
+    vo.id = id
+    Net:sendNet(Message.C2S$1,vo)
+end
+
+-- $3 返回
+function $2:onS2C$1(data)
+    -- cclog2("onS2C$1")
+end
+]]></content>
+    <!– Optional: Set a tabTrigger 设置补全命令 –>
+    <tabTrigger>createnet</tabTrigger>
+    <!– Optional: Set a scope –>
+    <scope>source.lua</scope>
+    <description>创建协议请求、返回函数</description>
+</snippet>
+

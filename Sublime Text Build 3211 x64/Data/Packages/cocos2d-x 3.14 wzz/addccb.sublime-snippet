@@ -1,0 +1,13 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+    self.cuiView = UIUtils.csLoad("csb/${5:${TM_FILEPATH/((.+)module\/)|(\/(.+)\.lua)//g}}/${1:name}")
+    self:addChild(self.cuiView)
+]]></content>
+    <!– Optional: Set a tabTrigger 设置补全命令 –>
+    <tabTrigger>addccb</tabTrigger>
+    <!– Optional: Set a scope 设置生效语言 –>
+    <scope>source.lua</scope>
+    <description>加载ccb</description>
+</snippet>
+

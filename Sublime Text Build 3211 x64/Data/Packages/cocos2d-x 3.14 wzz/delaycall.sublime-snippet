@@ -1,0 +1,14 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+local function callFunc()
+end
+UIUtils.delayCall(0.1, callFunc, node)
+]]></content>
+    <!– Optional: Set a tabTrigger 设置补全命令 –>
+    <tabTrigger>delaycall</tabTrigger>
+    <!– Optional: Set a scope 设置生效语言 –>
+    <scope>source.lua</scope>
+    <description>延迟执行某方法(s)</description>
+</snippet>
+

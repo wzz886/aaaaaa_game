@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+-- $3 $2
+${1:${TM_FILENAME/(.+)\..+/$1/}}.${2/.*/\U$&/g} = "$1.${2/.*/\U$&/g}"
+]]></content>
+    <tabTrigger>evtstr</tabTrigger>
+    <scope>source.lua</scope>
+    <description>创建事件字符</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+local playerVO = GlobalUtil.getModel("Player"):getMainRole()
+]]></content>
+    <tabTrigger>getPlayer</tabTrigger>
+    <scope>source.lua</scope>
+    <description>获取角色信息</description>
+</snippet>

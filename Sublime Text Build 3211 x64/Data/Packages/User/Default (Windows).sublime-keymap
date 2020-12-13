@@ -1,0 +1,57 @@
+[
+
+	// 一些说明，
+	// 1.add_info.py selection_symbol_panel.py selection_open_panel.py 放在Data\Packages\User目录下
+	// 2. python27和svn或gif安装目录最好不要改，即在c盘
+
+
+
+	// Ctrl+P：搜索项目中的文件
+	// { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },`
+	// { "keys": ["ctrl+shift+r"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+
+    { "keys": ["ctrl+s"], "command": "save_all" },
+    { "keys": ["ctrl+shift+s"], "command": "trim_space_on_save" },
+	{ "keys": ["ctrl+r"], "command": "selection_symbol_panel"},
+	{ "keys": ["ctrl+p"], "command": "selection_open_panel"},
+	{ "keys": ["ctrl+f1"], "command": "add_info"},
+
+
+	// 输出控制台
+	{ "keys": ["f1"], "command": "show_panel", "args": {"panel": "output.exec"} },
+
+	{ "keys": ["ctrl+/"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+/"], "command": "toggle_comment", "args": { "block": true } },
+
+
+
+	// alignment
+	// 自动对齐
+	{ "keys": ["ctrl+shift+a"], "command": "alignment" },
+
+	// CTags
+    {
+        "button": "button1",
+        "count": 1,
+        "press_command": "drag_select",
+        "modifiers": ["ctrl","shift"],
+        "command": "navigate_to_definition"
+    },
+    {
+        "button": "button2",
+        "count": 1,
+        "modifiers": ["ctrl","shift"],
+        "command": "jump_prev"
+    },
+
+	// modific
+    { "keys": ["ctrl+alt+c"], "command": "show_original_part" },
+    { "keys": ["ctrl+alt+r"], "command": "replace_modified_part" },
+    { "keys": ["ctrl+alt+d"], "command": "show_diff" },
+    { "keys": ["ctrl+alt+u"], "command": "uncommitted_files" },
+    { "keys": ["ctrl+shift+h", "ctrl+shift+l"], "command": "toggle_highlight_changes" },
+
+    { "keys": ["ctrl+shift+pageup"], "command": "jump_between_changes", "args": {"direction": "prev"} },
+    { "keys": ["ctrl+shift+pagedown"], "command": "jump_between_changes", "args": {"direction": "next"} },
+
+]

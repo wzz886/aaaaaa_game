@@ -1,0 +1,12 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+self:registerProto(00000, handler(self, self.funcName))
+]]></content>
+    <!– Optional: Set a tabTrigger 设置补全命令 –>
+    <tabTrigger>reg</tabTrigger>
+    <!– Optional: Set a scope 设置生效语言 –>
+    <scope>source.lua</scope>
+    <description>注册协议</description>
+</snippet>
+

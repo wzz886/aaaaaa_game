@@ -1,0 +1,38 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+--[[
+${5:${TM_FILEPATH/((.+)module\/)|(\/(.+)\.lua)//g}} ${3:${TM_FILENAME/Model(.+)//}}
+Author: wzz
+Date:${2:2019}
+--]]
+local ${1:${TM_FILENAME/(.+)\..+/$1/}} = class("$1",ModelBase)
+-- require("module.$5.$3Event")
+
+-- 初始
+function $1:init()
+
+    self:regAllMsg()
+end
+
+-- 监听协议
+function $1:regAllMsg()
+
+    -- self:registerProtocal(13301,handler(self,self.onS2CCityInfo))
+end
+
+---- 回收时调用
+-- function $1:deleteMe()
+--     $1.super.deleteMe(self)
+-- end
+
+return ${1:Model}
+
+]]></content>
+    <!– Optional: Set a tabTrigger 设置补全命令 –>
+    <tabTrigger>createmodel</tabTrigger>
+    <!– Optional: Set a scope 设置生效语言 –>
+    <scope>source.lua</scope>
+    <description>创建model基本内容</description>
+</snippet>
+

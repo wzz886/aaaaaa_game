@@ -1,0 +1,16 @@
+﻿<snippet>
+	<! 设置补全内容 –>
+    <content><![CDATA[
+self.${1:Close}:addClickEventListener(handler(self,self.on${1/./\U$&/}))
+
+-- 点击说明
+function ${2:${TM_FILENAME/(.+)\..+/$1/}}:on${1/./\U$&/}(...)
+end
+]]></content>
+    <!– Optional: Set a tabTrigger 设置补全命令 –>
+    <tabTrigger>btnevt</tabTrigger>
+    <!– Optional: Set a scope –>
+    <scope>source.lua</scope>
+    <description>按钮添加点击事件</description>
+</snippet>
+
