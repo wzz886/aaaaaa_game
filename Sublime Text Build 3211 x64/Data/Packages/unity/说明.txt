@@ -1,6 +1,6 @@
 
 newui:快速创建一个ui界面 基类UIWindow
-	  如果是界面中的item 将基类UIWindow改成 LuaUILoadObject即可
+newitem:快速创建一个ui界面中的item
 
 	类似有:newdatamanager, newcontroller
 
@@ -13,3 +13,5 @@ funcme:快速创建一个函数
 createscroll:创建scroll
 
 
+其它所有自己看目录
+....

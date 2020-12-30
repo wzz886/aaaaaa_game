@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+local controller = ControllerManager:getInfo("$1Controller")
+controller:openWindow()
+]]></content>
+    <tabTrigger>openview</tabTrigger>
+    <scope>source.lua</scope>
+    <description>打开一个模块界面</description>
+</snippet>

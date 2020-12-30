@@ -14,14 +14,20 @@
     { "keys": ["ctrl+shift+s"], "command": "trim_space_on_save" },
 	{ "keys": ["ctrl+r"], "command": "selection_symbol_panel"},
 	{ "keys": ["ctrl+p"], "command": "selection_open_panel"},
-	{ "keys": ["ctrl+f1"], "command": "add_info"},
+	{ "keys": ["f1"], "command": "add_info"},
 
+
+    // 峰驼命名变成小写加下划线
+    { "keys": ["ctrl+shift+v"], "command": "change_copy_str_panel"},
+    // 峰驼命名变成小写加空格
+    { "keys": ["f2"], "command": "change_copy_str_two_panel"},
 
 	// 输出控制台
-	{ "keys": ["f1"], "command": "show_panel", "args": {"panel": "output.exec"} },
+	{ "keys": ["ctrl+f1"], "command": "show_panel", "args": {"panel": "output.exec"} },
 
-	{ "keys": ["ctrl+/"], "command": "toggle_comment", "args": { "block": false } },
-	{ "keys": ["ctrl+shift+/"], "command": "toggle_comment", "args": { "block": true } },
+	// { "keys": ["ctrl+/"], "command": "toggle_comment", "args": { "block": false } },
+	// { "keys": ["ctrl+shift+/"], "command": "toggle_comment", "args": { "block": true } },
+
 
 
 

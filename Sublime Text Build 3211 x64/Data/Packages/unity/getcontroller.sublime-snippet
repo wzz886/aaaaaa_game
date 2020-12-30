@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+local controller = ControllerManager:getInfo("$1Controller")
+]]></content>
+    <tabTrigger>getcontroller</tabTrigger>
+    <scope>source.lua</scope>
+    <description>获取controller</description>
+</snippet>

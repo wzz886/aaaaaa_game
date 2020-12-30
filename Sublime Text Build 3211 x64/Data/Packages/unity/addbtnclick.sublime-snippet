@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+    ui.close_btn = LuaToCSharp.GetUIButton(self.object, "Contents/return")
+    ui.close_btn_func = UnityEngine.Events.UnityAction(
+        function()
+
+        end)
+    LuaToCSharp.AddButtonOnClick(ui.close_btn, ui.close_btn_func)
+]]></content>
+    <tabTrigger>addbtnclick</tabTrigger>
+    <scope>source.lua</scope>
+    <description>添加按钮事件</description>
+</snippet>
+

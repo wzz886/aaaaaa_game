@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+local controller = ControllerManager:getInfo("$1Controller")
+controller:destoryWindow()
+]]></content>
+    <tabTrigger>closeview</tabTrigger>
+    <scope>source.lua</scope>
+    <description>关闭模块界面</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+EventManager:sendMsg(EVENT.$1)
+]]></content>
+    <tabTrigger>sendevent</tabTrigger>
+    <scope>source.lua</scope>
+    <description>发送事件</description>
+</snippet>
+

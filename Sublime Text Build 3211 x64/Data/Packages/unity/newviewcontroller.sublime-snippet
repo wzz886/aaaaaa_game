@@ -10,8 +10,8 @@
 -- **********************************************************************
 
 
-require "Framework/ControllerBase"
-$1 = class("$1", ControllerBase)
+require "Framework/ViewController"
+$1 = class("$1", ViewController)
 
 
 ----------------------------------------
@@ -27,7 +27,7 @@ end
 ----------------------------------------
 -- destory self & register function
 function $1:destory()
-    ControllerBase.destory(self)
+    ViewController.destory(self)
     self:clearEvent()
 end
 
@@ -55,7 +55,7 @@ end
 ----------------------------------------
 -- clear info
 function $1:clear()
-	ControllerBase.clear(self)
+	ViewController.clear(self)
 end
 
 
@@ -66,11 +66,22 @@ function $1:initInfo()
 end
 
 
+----------------------------------------
+-- init window param
+function $1:initWindowParam()
+	self:setWindowParam(
+		{
+			["destory_window"] = self.destoryWindow,
+		}
+	)
+end
+
+
 ]]></content>
     <!– Optional: Set a tabTrigger –>
-    <tabTrigger>newcontroller</tabTrigger>
+    <tabTrigger>newview2020-12-25controller</tabTrigger>
     <!– Optional: Set a scope –>
     <scope>source.lua</scope>
-    <description>创建新controller</description>
+    <description>创建新view controller</description>
 </snippet>
 

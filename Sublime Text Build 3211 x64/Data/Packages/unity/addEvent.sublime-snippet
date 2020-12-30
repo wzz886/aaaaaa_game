@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+	self.event_map[EVENT.XXXXXXXXXX] = EventManager:addListener(EVENT.XXXXXXXXXX,
+		function(info)
+			$1
+	    end)
+]]></content>
+    <tabTrigger>addevent</tabTrigger>
+    <scope>source.lua</scope>
+    <description>增加事件</description>
+</snippet>
