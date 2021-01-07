@@ -1,11 +1,12 @@
 # 复制调试，未完成版，不可提交
 import os, shutil
 
-path_lua_1 = r"D:\debugScript\Debug"
+path_lua_1 = r"D:\aaaaaa\debugScript\Debug"
 path_lua_2 = r"D:\teon2-unity-client-poc\Assets\LuaScript\Debug"
 
-path_c_1 = r"D:\debugScript\UIEditorTool"
+path_c_1 = r"D:\aaaaaa\debugScript\UIEditorTool"
 path_c_2 = r"D:\teon2-unity-client-poc\Assets\Editor\UIEditorTool"
+
 
 # 复制文件夹的内容到相应的文件夹
 # from_path:从哪里复制
@@ -47,7 +48,7 @@ def deleteDirs(path):
 # 0为保存，从项目中保存到d盘debugScript
 # 1为复制，从d盘debugScript复制到顶目
 # 其它为删，从项目中删除，删除前会先保存到d盘
-flag = 1
+flag = -1
 if (flag == 0):
 	startSave()
 elif (flag == 1):
@@ -58,22 +59,4 @@ else:
 	deleteDirs(path_c_2)
 	print("-------------- 删除 结束 ")
 
-
-
-
-    # if index == 3 then
-    # -- self.id      = tonumber(tostring(s_data.objectId)) or 0
-    # -- self.bid     = tonumber(tostring(s_data.itemId)) or 1
-    # -- self.count   = tonumber(tostring(s_data.count)) or 0
-    # -- self.name_id = tonumber(tostring(s_data.name_id)) or nil
-
-    #     local s_data = {}
-    #     s_data_add_test_id = (s_data_add_test_id or 0) + 1
-    #     s_data.objectId = s_data_add_test_id
-    #     s_data.itemId = 52000
-    #     s_data.count = math.random(1, 100)
-
-
-    #     EventManager:sendMsg(EVENT.BAG.R_ADD_ITEM_DATA, s_data)
-    # end
 
