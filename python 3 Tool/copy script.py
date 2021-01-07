@@ -1,7 +1,7 @@
 import time, os, shutil
 
 save_path_root = r"D:\saveScript"
-copy_root = r"D:\teon2-unity-client-poc\Assets"
+copy_root = r"D:\Teon2Client\Assets"
 copy_dirs = ("Editor", "LuaScript", "Script")
 
 def saveScript():

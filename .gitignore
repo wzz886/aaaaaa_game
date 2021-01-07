@@ -1,5 +1,6 @@
 !.gitkeep
 *.cache
+*/Session.sublime_session
 */Auto Save Session.sublime_session
 Sublime Text Build 3211 x64/Data/Cache
 Sublime Text Build 3211 x64/Data/Backup
