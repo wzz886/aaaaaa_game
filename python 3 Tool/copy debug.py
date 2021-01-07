@@ -5,7 +5,7 @@ path_lua_1 = r"D:\aaaaaa\debugScript\Debug"
 path_lua_2 = r"D:\teon2-unity-client-poc\Assets\LuaScript\Debug"
 
 path_c_1 = r"D:\aaaaaa\debugScript\UIEditorTool"
-path_c_2 = r"D:\teon2-unity-client-poc\Assets\Editor\UIEditorTool"
+path_c_2 = r"D:\Teon2Client\Assets\Editor\UIEditorTool"
 
 
 # 复制文件夹的内容到相应的文件夹

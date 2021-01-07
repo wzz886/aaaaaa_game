@@ -1,11 +1,12 @@
 {
 	"folder_history":
 	[
+		"/D/teon2-unity-client-poc/Assets",
+		"/D/teon2-asset-poc",
 		"/D/aaaaaa/Lua test",
 		"/D/aaaaaa/Lua Tool",
 		"/D/aaaaaa/python 3 Tool",
 		"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/unity",
-		"/D/teon2-unity-client-poc/Assets",
 		"/D/aaaaaa_game/python 3 Tool",
 		"/D/aaaaaa_game/Lua Tool",
 		"/D/myGitHupTest",
@@ -1012,6 +1013,24 @@
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
+				},
+				{
+					"file": "/D/aaaaaa/python 3 Tool/copy debug.py",
+					"settings":
+					{
+						"buffer_size": 1406,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/aaaaaa/.gitignore",
+					"settings":
+					{
+						"buffer_size": 133,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
 				}
 			],
 			"build_system": "Packages/User/MyPython3.sublime-build",
@@ -1128,10 +1147,11 @@
 			[
 				"/D/aaaaaa/Lua test",
 				"/D/aaaaaa/Lua Tool",
-				"/D/aaaaaa/python 3 Tool"
+				"/D/teon2-unity-client-poc/Assets"
 			],
 			"file_history":
 			[
+				"/D/qqpcmgr_docpro/关于本文件夹的说明2.0.txt",
 				"/D/aaaaaa/Sublime Text Build 3211 x64/Data/Packages/User/MyPython3.sublime-build",
 				"/D/aaaaaa/.gitignore",
 				"/D/aaaaaa_game/python 3 Tool/copy file.py",
@@ -1258,8 +1278,7 @@
 				"/E/桌面文件/python 3 Tool/learn_def.py",
 				"/E/桌面文件/python 3 Tool/learn_iterator.py",
 				"/E/桌面文件/python 3 Tool/learn_condition.py",
-				"/E/桌面文件/python 3 Tool/learn_base.py",
-				"/E/桌面文件/python 3 Tool/learn_algorithm.py"
+				"/E/桌面文件/python 3 Tool/learn_base.py"
 			],
 			"find":
 			{
@@ -1441,12 +1460,18 @@
 				},
 				{
 					"path": "D:\\aaaaaa\\python 3 Tool"
+				},
+				{
+					"path": "D:\\teon2-asset-poc"
+				},
+				{
+					"path": "D:\\teon2-unity-client-poc\\Assets"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -1462,8 +1487,8 @@
 								"selection":
 								[
 									[
-										225,
-										225
+										576,
+										576
 									]
 								],
 								"settings":
@@ -1475,7 +1500,63 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/aaaaaa/python 3 Tool/copy debug.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1406,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										222,
+										222
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 105.8,
+								"zoom_level": 1.0
+							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/aaaaaa/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 133,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20,
+										20
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
