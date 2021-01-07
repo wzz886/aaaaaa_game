@@ -16,7 +16,7 @@ ${1:${TM_FILENAME/(.+)\..+/$1/}} = class("$1", UIWindow)
 ----------------------------------------
 -- ctor
 function $1:ctor()
-    self.super:ctor()
+    UIWindow.ctor(self)
 
     self.ui = {}
 end

@@ -61,3 +61,19 @@ else:
 
 
 
+    # if index == 3 then
+    # -- self.id      = tonumber(tostring(s_data.objectId)) or 0
+    # -- self.bid     = tonumber(tostring(s_data.itemId)) or 1
+    # -- self.count   = tonumber(tostring(s_data.count)) or 0
+    # -- self.name_id = tonumber(tostring(s_data.name_id)) or nil
+
+    #     local s_data = {}
+    #     s_data_add_test_id = (s_data_add_test_id or 0) + 1
+    #     s_data.objectId = s_data_add_test_id
+    #     s_data.itemId = 52000
+    #     s_data.count = math.random(1, 100)
+
+
+    #     EventManager:sendMsg(EVENT.BAG.R_ADD_ITEM_DATA, s_data)
+    # end
+

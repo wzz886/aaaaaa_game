@@ -1,6 +1,13 @@
 {
 	"folder_history":
 	[
+		"/D/aaaaaa/Lua test",
+		"/D/aaaaaa/Lua Tool",
+		"/D/aaaaaa/python 3 Tool",
+		"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/unity",
+		"/D/teon2-unity-client-poc/Assets",
+		"/D/aaaaaa_game/python 3 Tool",
+		"/D/aaaaaa_game/Lua Tool",
 		"/D/myGitHupTest",
 		"/D/work/python 3 Tool",
 		"/F/new",
@@ -8,17 +15,117 @@
 		"/E/桌面文件"
 	],
 	"last_version": 3211,
-	"last_window_id": 7,
+	"last_window_id": 9,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 868.8,
+		"new_window_height": 1020.8,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"comf",
+						"comfirm_btn\tabc"
+					],
+					[
+						"item",
+						"item_info\tabc"
+					],
+					[
+						"data",
+						"data_index\tabc"
+					],
+					[
+						"init",
+						"init_map\tabc"
+					],
+					[
+						"da",
+						"data_index\tabc"
+					],
+					[
+						"Ev",
+						"EventManager\tabc"
+					],
+					[
+						"oj",
+						"object\tabc"
+					],
+					[
+						"hot",
+						"hotkey\t(PlayerController.lua)"
+					],
+					[
+						"tInfo",
+						"tInfo.itemList"
+					],
+					[
+						"all",
+						"allInfo\tabc"
+					],
+					[
+						"obj",
+						"objectId\tabc"
+					],
+					[
+						"i",
+						"is_new\tabc"
+					],
+					[
+						"left",
+						"left_tab\t(BagMainUI.lua)"
+					],
+					[
+						"gir",
+						"gird_list\tabc"
+					],
+					[
+						"ne",
+						"newitem\t创建新item"
+					],
+					[
+						"btn",
+						"btn_path\tabc"
+					],
+					[
+						"is",
+						"is_show_bag\tabc"
+					],
+					[
+						"de",
+						"destory\tabc"
+					],
+					[
+						"pa",
+						"pairs\tabc"
+					],
+					[
+						"re",
+						"return\tabc"
+					],
+					[
+						"func",
+						"funcme\t快速创建一个函数"
+					],
+					[
+						"my",
+						"myiter\tabc"
+					],
+					[
+						"list",
+						"list1\tabc"
+					],
+					[
+						"set",
+						"set3\tabc"
+					],
+					[
+						"TR",
+						"True\t(copy file.py)"
+					],
 					[
 						"Add",
 						"ADD_ONE\t(BagEvent.lua)"
@@ -31,6 +138,66 @@
 			},
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/Lua/Lua.sublime-build",
+							""
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-banshu.sublime-build",
+							""
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-debug-new-game.sublime-build",
+							""
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-debug-sy.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Lua54.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Lua54.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-banshu.sublime-build",
+							""
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-debug-new-game.sublime-build",
+							""
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-debug-sy.sublime-build",
+							""
+						],
+						[
+							"Packages/User/MyPython3.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/MyPython3.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
@@ -80,24 +247,153 @@
 			},
 			"file_history":
 			[
-				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/show_lang_tips.py",
-				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/example.py",
-				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/learn_sublime.py",
-				"/E/桌面文件/luaTest.lua",
-				"/F/work/client/src/ui/TreeBaseItem.lua",
-				"/F/work/client/src/modules/bag/BagView.lua",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/破解说明.txt"
+				"/D/teon2-unity-client-poc/Assets/Editor/resConfig.info",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Prefabs/InformationUI/hotKeyBagItems.prefab.meta",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Config/uirefcollections.json",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Config/uiatlasinfo.json",
+				"/D/teon2-unity-client-poc/Assets/Script/Common/LuaToCSharp.cs",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/HotKeyUI/HotKeyPageUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/HotKeyUI/HotKeyUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/BagUI/BagMainUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/CommonFunc.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Manager/BagInfoManager.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/BagUI/BagBaseGird.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Struct/ItemInfo.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Manager/HotKeyManager.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/HotKeyController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/Const.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Struct/BagInfo.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/HotKeyUI/HotKeyPageItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/BagUI/BagMainGirdUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/BagController.lua",
+				"/D/teon2-asset-poc/ClientData/ClientItemInfo.csv",
+				"/D/teon2-asset-poc/Data/csv/Etcitem.csv",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/PlayerController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainUI.lua",
+				"/D/aaaaaa_game/Lua Tool/main.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/Event.lua",
+				"/D/aaaaaa_game/python 3 Tool/copy file.py",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/LuaUILoadObject.lua",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Config/uirefcollections.json.meta",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Config/classes.json",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/InitController.lua",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Prefabs/InformationUI/hotkey.prefab.meta",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Prefabs/InformationUI/skills.prefab.meta",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Prefabs/InformationUI/hotkey.prefab",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/NetMsgProcess.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Debug/Debug.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Config/ItemConfig.lua",
+				"/D/teon2-unity-client-poc/Assets/StreamingAssets/gameres/lua/Common/Const.bytes",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/UIWindow.lua",
+				"/D/teon2-unity-client-poc/Assets/StreamingAssets/gameres/lua/UI/MainUI/MainUI.bytes",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PopupErrorUI/SecondaryPopupUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/LoginUI/LoginUI.lua",
+				"/D/teon2-unity-client-poc/Assets/Editor/Custom/CustomSettings.cs",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Main.lua",
+				"/D/teon2-unity-client-poc/Packages/packages-lock.json",
+				"/D/aaaaaa_game/Lua Tool/inspect.lua",
+				"/D/aaaaaa_game/Lua Tool/luaTest.lua",
+				"/D/teon2-unity-client-poc/Assets/Script/GameManager/NetMsgCenter.cs",
+				"/D/aaaaaa_game/python 3 Tool/copy debug.py",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Struct/bagInfo.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainDetailItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainSkillItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainModleItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainEquipItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/MainUI/MainSkillTestUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/MainUI/MainSkillTestItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/GMUI/GMUIItem2.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/GMUI/GMUIItem1.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/GMUI/GMUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/SkillTestController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/PlayerModelController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/PlayerEquipController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/GMController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/CommonUI/TopUI.lua",
+				"/D/teon2-unity-client-poc/Assets/StreamingAssets/gameres/lua/Manager/BagInfoManager.bytes",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainHotKeyUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Manager/PlayerHotKeyManager.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainHotKeyItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/PlayerHotKeyController.lua",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Config/uiatlasinfo.json.meta",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/MainUI/NameUI.lua",
+				"/D/teon2-unity-client-poc/Assets/Editor/UIEditorTool/CopyObjectPath.cs",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/Json.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/WinSwitch.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/playerHotKeyController.lua",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/unity/newcontroller.sublime-snippet",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/User/change_copy_str_two.py",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/User/change_copy_str.py",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/unity/newui.sublime-snippet",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/unity/newviewcontroller.sublime-snippet",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/unity/newitem.sublime-snippet",
+				"/D/teon2-unity-client-poc/Assets/EditorRes/UINodeMap/constUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/SupperClass.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/LuaUIObject.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/LoginController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/WindowController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/UIManager.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/inspect.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/MainUI/MainUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/StateManager.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/ChatController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Data/Config.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/ControllerBase.lua",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/User/add_info.py",
+				"/D/aaaaaa_game/.gitignore",
+				"/D/teon2-unity-client-poc/.gitignore",
+				"/D/aaaaaa/.gitignore",
+				"/D/myGitHupTest/test.lua",
+				"/D/work/python 3 Tool/luatest.lua",
+				"/D/aaaaaaa_game/.gitignore",
+				"/D/Sublime Text Build 3211 x64/破解说明.txt",
+				"/D/work/python 3 Tool/copy file.py",
+				"/F/wzz/远古/Scripts/UI/Editor/UIVariableTableEditor.cs",
+				"/F/wzz/远古/Scripts/UI/UIVariableTable.cs",
+				"/F/wzz/远古/common/make_language/帮助说明.txt",
+				"/F/wzz/远古/Scripts/Editor/Tools/ChangeFontWindow.cs",
+				"/F/Unity  Learn/XluaGame2018/Assets/Editor/ChangeFont.txt",
+				"/E/桌面文件/感悟.txt",
+				"/E/桌面文件/python 3 Tool/learn_dict.py",
+				"/E/桌面文件/python 3 Tool/learn_tuple.py",
+				"/E/桌面文件/python 3 Tool/learn_def.py",
+				"/E/桌面文件/python 3 Tool/learn_iterator.py",
+				"/E/桌面文件/python 3 Tool/learn_condition.py",
+				"/E/桌面文件/python 3 Tool/learn_base.py",
+				"/E/桌面文件/python 3 Tool/learn_algorithm.py",
+				"/E/桌面文件/python 3 Tool/learn_set.py",
+				"/E/桌面文件/python 3 Tool/learn_list.py",
+				"/E/桌面文件/python 3 Tool/learn_str.py",
+				"/E/桌面文件/python 3 Tool/learn_number.py",
+				"/E/桌面文件/python 3 Tool/learn_operate.py",
+				"/F/new/LuaScript/Common/Lang.lua",
+				"/F/new/Editor/BundleTool/BuildBundle.cs",
+				"/F/new/LuaScript/UI/SelectCharacterUI/SelectCharBtnUI.lua",
+				"/E/桌面文件/Unity API 2018_4/Vector3Int",
+				"/E/桌面文件/Unity API 2018_4/Transform",
+				"/E/桌面文件/Unity API 2018_4/Time",
+				"/E/桌面文件/Unity API 2018_4/RectTransform",
+				"/E/桌面文件/Unity API 2018_4/Object",
+				"/E/桌面文件/Unity API 2018_4/MonoBehaviour"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 40.8
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 104.8,
 				"where_history":
 				[
+					"D:\\teon2-unity-client-poc\\Assets\\LuaScript",
+					"D:\\teon2-unity-client-poc\\Assets",
+					"D:\\teon2-unity-client-poc\\Assets\\LuaScript",
+					"D:\\teon2-unity-client-poc\\Assets\\LuaScript\\UI\\BagUI",
+					"D:\\teon2-unity-client-poc\\Assets",
+					"D:\\teon2-unity-client-poc\\Assets\\LuaScript",
+					"D:\\teon2-unity-client-poc\\Assets",
+					"F:\\new",
+					""
 				]
 			},
 			"find_state":
@@ -105,6 +401,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"resourceconfig",
+					"uicamera",
+					"onClickGrid",
+					"initDataList",
+					"saveHotKey",
+					"confirm_call_func",
+					"isNeedShowSecondaryPopupView",
+					"uiScrollGoToPos",
+					"data_index",
+					"updateImgPoint",
+					"init_num",
+					"uiScrollGoToPos",
+					"page_list",
+					"ActiveUIButtonGray",
+					"UnActiveUIButtonGray",
+					"updateComfirmBtnGray",
+					"ishadChange",
+					"onClickComfirmBtn",
+					"on_click_img_point",
+					"bg_img",
+					"scrollViewGoToPos",
+					"on_click_left_tab_btn",
+					"onClickImgPoint",
+					"on_click_img_point",
+					"set_page_index",
+					"init_num",
+					"getPageDataIndexByItemIndex",
+					"item",
+					"Item",
+					"item",
+					"data_index",
+					"getSelfByDataIndex",
+					"isNeedShowSecondaryPopupView",
+					"onClickCancelBtn",
+					"LOCK_HOTKEY_INDEX",
+					"onClickLeftTabBtn",
+					"on_click_left_tab_btn",
+					"onClickLeftTabBtn",
+					"isLockThirdScheme",
+					"is_lock_third_scheme",
+					"txt_obj",
+					"lock_obj",
+					"lock_path",
+					"bg_path",
+					"left_tab",
+					"bg_obj",
+					"CHAT_CHANNEL",
+					"CHAT_CHANNEL_COLOR",
+					"CHAT_CHANNEL",
+					"RARITY",
+					"rarity",
+					"trade",
+					"item_type",
+					"1 ",
+					"3grd_model",
+					"saveServerInfo",
+					"or",
+					"tab.",
+					"saveServerInfo",
+					"rarity",
+					"LuaToCSharp.SetUIImga",
+					"SetUIImga",
+					"LuaToCSharp.SetUI",
+					"ITEM_RARITY_BG_RES",
+					"LuaToCSharp.SetUII",
+					"getItem",
+					"data",
+					"Data",
+					"data",
+					"Data",
+					"data",
+					"Data",
+					"data",
+					"Data",
+					"data",
+					"count",
+					"new_data",
+					"old_data",
+					"data_index",
+					"sort_item_id_list",
+					"new_data",
+					"getSortItemDataByTypeAndIndex",
+					"getBagMainUIGridData",
+					"get_bag_main_ui_grid_data",
+					"sort_item_id_list",
+					"icon_obj",
+					"self.view_data_list",
+					"view_data_list",
+					"no param",
+					"HOTKEY_ITEM_PAGE_NUM",
+					",         ",
+					"SKILL_TEST",
+					"GM",
+					"10",
+					"MAIN_UI_SET_SELECT_TOGGLE",
+					"--",
+					"BAG",
+					"EVENT.BAG.R_ALL_ITEM_DATA",
+					"userdata",
+					"= ",
+					"= 120",
+					"=",
+					"DESTORY_MAIN_CONTROLLER",
+					"DESTORY_CHAT_CONTROLLER",
+					"=",
+					"print",
+					"window",
+					"EVENT.PLAYER.OPEN_MAIN_VEIW",
+					"EventManager",
+					"hotkey_item",
+					"data",
+					"Data",
+					"data",
+					"destoryObj",
+					"DESTORY_HOTKEY_UI",
+					"destory_hot_key_ui",
+					"hotkey_item",
+					"ViewController",
+					"destoryHotKeyUI",
+					"hotkey_item",
+					"hotkey_ui",
+					"self.hotkey_ui",
+					"hotkey_ui",
+					"equip_ui_item",
+					"select_bg_obj",
+					"HotKeyPageUI",
+					"hotkeys",
+					"hotKeyBagItem"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -114,14 +538,14 @@
 				[
 				],
 				"reverse": false,
-				"show_context": true,
+				"show_context": false,
 				"use_buffer2": true,
 				"whole_word": false,
 				"wrap": true
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -130,16 +554,16 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 203.0
+				"height": 311.0
 			},
 			"output.find_results":
 			{
-				"height": 0.0
+				"height": 127.0
 			},
-			"pinned_build_system": "Packages/User/Lua54.sublime-build",
+			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -148,6 +572,278 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"hotkeypa",
+						"Assets\\LuaScript\\UI\\HotKeyUI\\HotKeyPageUI.lua"
+					],
+					[
+						"re",
+						"Assets\\Editor\\resConfig.info"
+					],
+					[
+						"",
+						"Assets\\LuaScript\\Manager\\HotKeyManager.lua"
+					],
+					[
+						"hotkeym",
+						"Assets\\LuaScript\\Manager\\HotKeyManager.lua"
+					],
+					[
+						"kotkey",
+						"Assets\\LuaScript\\UI\\HotKeyUI\\HotKeyPageUI.lua"
+					],
+					[
+						"hotkeyc",
+						"Assets\\LuaScript\\Controller\\HotKeyController.lua"
+					],
+					[
+						"item",
+						"Assets\\LuaScript\\Struct\\ItemInfo.lua"
+					],
+					[
+						"hotkeyui",
+						"Assets\\LuaScript\\UI\\HotKeyUI\\HotKeyUI.lua"
+					],
+					[
+						"pag",
+						"Assets\\LuaScript\\UI\\HotKeyUI\\HotKeyPageUI.lua"
+					],
+					[
+						"luatoc",
+						"Assets\\Script\\Common\\LuaToCSharp.cs"
+					],
+					[
+						"luato",
+						"Assets\\Script\\Common\\LuaToCSharp.cs"
+					],
+					[
+						"const",
+						"Assets\\LuaScript\\Common\\Const.lua"
+					],
+					[
+						"bagmain",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainGirdUI.lua"
+					],
+					[
+						"hotkeymanager",
+						"Assets\\LuaScript\\Manager\\HotKeyManager.lua"
+					],
+					[
+						"event",
+						"Assets\\LuaScript\\Common\\Event.lua"
+					],
+					[
+						"hot",
+						"Assets\\LuaScript\\Controller\\HotKeyController.lua"
+					],
+					[
+						"hotkeycon",
+						"Assets\\LuaScript\\Controller\\HotKeyController.lua"
+					],
+					[
+						"plc",
+						"Assets\\LuaScript\\Controller\\PlayerController.lua"
+					],
+					[
+						"playermainu",
+						"Assets\\LuaScript\\UI\\PlayerUI\\PlayerMainUI.lua"
+					],
+					[
+						"play",
+						"Assets\\LuaScript\\Controller\\PlayerController.lua"
+					],
+					[
+						"bagmana",
+						"Assets\\LuaScript\\Manager\\BagInfoManager.lua"
+					],
+					[
+						"luaui",
+						"Assets\\LuaScript\\Framework\\LuaUILoadObject.lua"
+					],
+					[
+						"uiho",
+						"Assets\\LuaScript\\UI\\HotKeyUI\\HotKeyUI.lua"
+					],
+					[
+						"bag",
+						"Assets\\LuaScript\\Controller\\BagController.lua"
+					],
+					[
+						"hotkey",
+						"Assets\\LuaScript\\Controller\\HotKeyController.lua"
+					],
+					[
+						"bagmaing",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainGirdUI.lua"
+					],
+					[
+						"netms",
+						"Assets\\LuaScript\\Common\\NetMsgProcess.lua"
+					],
+					[
+						"baginfo",
+						"Assets\\LuaScript\\Manager\\BagInfoManager.lua"
+					],
+					[
+						"baginf",
+						"Assets\\LuaScript\\Manager\\BagInfoManager.lua"
+					],
+					[
+						"bagbase",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"itemco",
+						"Assets\\LuaScript\\Config\\ItemConfig.lua"
+					],
+					[
+						"luauil",
+						"Assets\\LuaScript\\Framework\\LuaUILoadObject.lua"
+					],
+					[
+						"lu",
+						"Assets\\LuaScript\\Framework\\LuaUILoadObject.lua"
+					],
+					[
+						"bagba",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"bagma",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainGirdUI.lua"
+					],
+					[
+						"lua",
+						"Assets\\LuaScript\\Framework\\LuaUILoadObject.lua"
+					],
+					[
+						"bagbse",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"bagmai",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainUI.lua"
+					],
+					[
+						"lo",
+						"Assets\\LuaScript\\UI\\LoginUI\\LoginUI.lua"
+					],
+					[
+						"bagbag",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"bagm",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainUI.lua"
+					],
+					[
+						"itemif",
+						"Assets\\LuaScript\\Struct\\ItemInfo.lua"
+					],
+					[
+						"bagi",
+						"Assets\\LuaScript\\Struct\\BagInfo.lua"
+					],
+					[
+						"cust",
+						"Assets\\Editor\\Custom\\CustomSettings.cs"
+					],
+					[
+						"iteminfo",
+						"Assets\\LuaScript\\Struct\\ItemInfo.lua"
+					],
+					[
+						"bagc",
+						"Assets\\LuaScript\\Controller\\BagController.lua"
+					],
+					[
+						"reconf",
+						"Assets\\Editor\\resConfig.info"
+					],
+					[
+						"bagin",
+						"Assets\\LuaScript\\Struct\\bagInfo.lua"
+					],
+					[
+						"baggri",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"iteminf",
+						"Assets\\LuaScript\\Struct\\ItemInfo.lua"
+					],
+					[
+						"bagmang",
+						"Assets\\LuaScript\\Manager\\BagInfoManager.lua"
+					],
+					[
+						"itemcon",
+						"Assets\\LuaScript\\Config\\ItemConfig.lua"
+					],
+					[
+						"luatoch",
+						"Assets\\Script\\Common\\LuaToCSharp.cs"
+					],
+					[
+						"bagmian",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainUI.lua"
+					],
+					[
+						"baginfoma",
+						"Assets\\LuaScript\\Manager\\BagInfoManager.lua"
+					],
+					[
+						"bagmianu",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainUI.lua"
+					],
+					[
+						"baggir",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainGirdUI.lua"
+					],
+					[
+						"playerkh",
+						"Assets\\LuaScript\\Controller\\PlayerHotKeyController.lua"
+					],
+					[
+						"PlayerMainHotKeyItemUI",
+						"Assets\\LuaScript\\UI\\PlayerUI\\PlayerMainHotKeyItemUI.lua"
+					],
+					[
+						"d",
+						"Assets\\LuaScript\\Debug\\Debug.lua"
+					],
+					[
+						"sup",
+						"Assets\\LuaScript\\Framework\\SupperClass.lua"
+					],
+					[
+						"logu",
+						"Assets\\LuaScript\\UI\\LoginUI\\LoginUI.lua"
+					],
+					[
+						"uima",
+						"Assets\\LuaScript\\Framework\\UIManager.lua"
+					],
+					[
+						"wind",
+						"Assets\\LuaScript\\Framework\\WindowController.lua"
+					],
+					[
+						"bagg",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainGirdUI.lua"
+					],
+					[
+						"bagbas",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"bagcon",
+						"Assets\\LuaScript\\Controller\\BagController.lua"
+					],
+					[
+						"chatc",
+						"Assets\\LuaScript\\Controller\\ChatController.lua"
+					]
 				],
 				"width": 0.0
 			},
@@ -173,13 +869,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 222.0,
+			"side_bar_width": 454.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1016.0
+		"new_window_width": 1555.2
 	},
 	"windows":
 	[
@@ -188,6 +884,98 @@
 			{
 				"selected_items":
 				[
+					[
+						"item",
+						"item_info\tabc"
+					],
+					[
+						"data",
+						"data\tabc"
+					],
+					[
+						"da",
+						"data\tabc"
+					],
+					[
+						"sor",
+						"sort_item_type\tabc"
+					],
+					[
+						"tog",
+						"toggle_type\tabc"
+					],
+					[
+						"i",
+						"item_info\tabc"
+					],
+					[
+						"comf",
+						"comfirm_btn\tabc"
+					],
+					[
+						"init",
+						"init_map\tabc"
+					],
+					[
+						"Ev",
+						"EventManager\tabc"
+					],
+					[
+						"oj",
+						"object\tabc"
+					],
+					[
+						"hot",
+						"hotkey\t(PlayerController.lua)"
+					],
+					[
+						"tInfo",
+						"tInfo.itemList"
+					],
+					[
+						"all",
+						"allInfo\tabc"
+					],
+					[
+						"obj",
+						"objectId\tabc"
+					],
+					[
+						"left",
+						"left_tab\t(BagMainUI.lua)"
+					],
+					[
+						"gir",
+						"gird_list\tabc"
+					],
+					[
+						"ne",
+						"newitem\t创建新item"
+					],
+					[
+						"btn",
+						"btn_path\tabc"
+					],
+					[
+						"is",
+						"is_show_bag\tabc"
+					],
+					[
+						"de",
+						"destory\tabc"
+					],
+					[
+						"pa",
+						"pairs\tabc"
+					],
+					[
+						"re",
+						"return\tabc"
+					],
+					[
+						"func",
+						"funcme\t快速创建一个函数"
+					],
 					[
 						"my",
 						"myiter\tabc"
@@ -217,40 +1005,78 @@
 			"buffers":
 			[
 				{
-					"contents": "\n\nSearching 1234 files for \"resConfig\" (case sensitive, whole word)\n\nF:\\new\\Editor\\BundleTool\\BuildBundle.cs:\n 1854:             var tNewConfigPath = Application.streamingAssetsPath + \"/gameres/resConfig.info\";\n 2071:             tD += string.Format(@\"\"\"{0}\"\"\", \"resConfig.info\");\n 2133:             var tFile = tExportPath + \"/resConfig.info\";\n\n3 matches in 1 file\n",
+					"file": "/D/aaaaaa/Lua Tool/save.lua",
 					"settings":
 					{
-						"buffer_size": 366,
-						"line_ending": "Windows",
-						"name": "Find Results",
-						"scratch": true
-					}
-				},
-				{
-					"contents": "print(\"--\")\n",
-					"file": "/D/work/python 3 Tool/luatest.lua",
-					"file_size": 13,
-					"file_write_time": 132522337928547421,
-					"settings":
-					{
-						"buffer_size": 12,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/myGitHupTest/test.lua",
-					"settings":
-					{
-						"buffer_size": 45,
+						"buffer_size": 576,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "",
+			"build_system": "Packages/User/MyPython3.sublime-build",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/Lua/Lua.sublime-build",
+							""
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-banshu.sublime-build",
+							""
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-debug-new-game.sublime-build",
+							""
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-debug-sy.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Lua54.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Lua54.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-banshu.sublime-build",
+							""
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-debug-new-game.sublime-build",
+							""
+						],
+						[
+							"Packages/cocos2d-x 3.14 wzz/cocos-debug-sy.sublime-build",
+							""
+						],
+						[
+							"Packages/User/MyPython3.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/MyPython3.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
@@ -300,12 +1126,124 @@
 			},
 			"expanded_folders":
 			[
-				"/E/桌面文件",
-				"/F/work/client/src",
-				"/D/work/python 3 Tool"
+				"/D/aaaaaa/Lua test",
+				"/D/aaaaaa/Lua Tool",
+				"/D/aaaaaa/python 3 Tool"
 			],
 			"file_history":
 			[
+				"/D/aaaaaa/Sublime Text Build 3211 x64/Data/Packages/User/MyPython3.sublime-build",
+				"/D/aaaaaa/.gitignore",
+				"/D/aaaaaa_game/python 3 Tool/copy file.py",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/HotKeyController.lua",
+				"/D/aaaaaa_game/Lua Tool/main.lua",
+				"/D/teon2-unity-client-poc/Assets/Editor/BundleTool/AssetBundleBuildWin.cs",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Prefabs/InformationUI/hotkeys3.prefab.meta",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Prefabs/InformationUI/hotkeys2.prefab.meta",
+				"/D/aaaaaa_game/.gitignore",
+				"/D/teon2-unity-client-poc/Assets/Editor/resConfig.info",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/BagController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Struct/BagInfo.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Struct/ItemInfo.lua",
+				"/D/teon2-asset-poc/Data/csv/Etcitem.csv",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/Const.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Manager/BagInfoManager.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/BagUI/BagMainUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/WinSwitch.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/PlayerController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainUI.lua",
+				"/D/teon2-unity-client-poc/Assets/Editor/UserDefineTools/ExportCSVWin.cs",
+				"/D/teon2-asset-poc/ClientData/ClientItemInfo.csv",
+				"/D/teon2-asset-poc/ClientData/ServerConfigEnumDefine.csv",
+				"/D/teon2-asset-poc/ClientData/README.md",
+				"/D/teon2-asset-poc/ClientData/ConvertToDB.bat",
+				"/D/teon2-asset-poc/Data/csv/Classes.csv",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/HotKeyUI/HotKeyUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/HotKeyUI/HotKeyPageUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/HotKeyUI/HotKeyPageItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/MainUI/MainUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainHotKeyUI.lua",
+				"/D/aaaaaa_game/python 3 Tool/copy debug.py",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/Lang.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/CreateCharacterUI/CreateCharacterUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PopupErrorUI/SecondaryPopupUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Manager/HotKeyManager.lua",
+				"/D/teon2-unity-client-poc/Assets/StreamingAssets/gameres/config/uirefcollections.json",
+				"/D/teon2-unity-client-poc/Assets/StreamingAssets/gameres/resConfig.info",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Prefabs/InformationUI/hotkey_bag_items.prefab.meta",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Prefabs/InformationUI/hotKeyBagItems.prefab.meta",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Config/uirefcollections.json",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Config/uiatlasinfo.json",
+				"/D/teon2-unity-client-poc/Assets/Script/Common/LuaToCSharp.cs",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/CommonFunc.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/BagUI/BagBaseGird.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/BagUI/BagMainGirdUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/Event.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/LuaUILoadObject.lua",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Config/uirefcollections.json.meta",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Config/classes.json",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/InitController.lua",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Prefabs/InformationUI/hotkey.prefab.meta",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Prefabs/InformationUI/skills.prefab.meta",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Prefabs/InformationUI/hotkey.prefab",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/NetMsgProcess.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Debug/Debug.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Config/ItemConfig.lua",
+				"/D/teon2-unity-client-poc/Assets/StreamingAssets/gameres/lua/Common/Const.bytes",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/UIWindow.lua",
+				"/D/teon2-unity-client-poc/Assets/StreamingAssets/gameres/lua/UI/MainUI/MainUI.bytes",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/LoginUI/LoginUI.lua",
+				"/D/teon2-unity-client-poc/Assets/Editor/Custom/CustomSettings.cs",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Main.lua",
+				"/D/teon2-unity-client-poc/Packages/packages-lock.json",
+				"/D/aaaaaa_game/Lua Tool/inspect.lua",
+				"/D/aaaaaa_game/Lua Tool/luaTest.lua",
+				"/D/teon2-unity-client-poc/Assets/Script/GameManager/NetMsgCenter.cs",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Struct/bagInfo.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainDetailItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainSkillItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainModleItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainEquipItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/MainUI/MainSkillTestUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/MainUI/MainSkillTestItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/GMUI/GMUIItem2.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/GMUI/GMUIItem1.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/GMUI/GMUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/SkillTestController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/PlayerModelController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/PlayerEquipController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/GMController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/CommonUI/TopUI.lua",
+				"/D/teon2-unity-client-poc/Assets/StreamingAssets/gameres/lua/Manager/BagInfoManager.bytes",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Manager/PlayerHotKeyManager.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/PlayerUI/PlayerMainHotKeyItemUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/PlayerHotKeyController.lua",
+				"/D/teon2-unity-client-poc/Assets/ResourceInfo/Config/uiatlasinfo.json.meta",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/UI/MainUI/NameUI.lua",
+				"/D/teon2-unity-client-poc/Assets/Editor/UIEditorTool/CopyObjectPath.cs",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/Json.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/playerHotKeyController.lua",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/unity/newcontroller.sublime-snippet",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/User/change_copy_str_two.py",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/User/change_copy_str.py",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/unity/newui.sublime-snippet",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/unity/newviewcontroller.sublime-snippet",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/unity/newitem.sublime-snippet",
+				"/D/teon2-unity-client-poc/Assets/EditorRes/UINodeMap/constUI.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/SupperClass.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/LuaUIObject.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/LoginController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/WindowController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/UIManager.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/inspect.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Common/StateManager.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Controller/ChatController.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Data/Config.lua",
+				"/D/teon2-unity-client-poc/Assets/LuaScript/Framework/ControllerBase.lua",
+				"/D/aaaaaa_game/Sublime Text Build 3211 x64/Data/Packages/User/add_info.py",
+				"/D/teon2-unity-client-poc/.gitignore",
+				"/D/myGitHupTest/test.lua",
+				"/D/work/python 3 Tool/luatest.lua",
 				"/D/aaaaaaa_game/.gitignore",
 				"/D/Sublime Text Build 3211 x64/破解说明.txt",
 				"/D/work/python 3 Tool/copy file.py",
@@ -321,44 +1259,7 @@
 				"/E/桌面文件/python 3 Tool/learn_iterator.py",
 				"/E/桌面文件/python 3 Tool/learn_condition.py",
 				"/E/桌面文件/python 3 Tool/learn_base.py",
-				"/E/桌面文件/python 3 Tool/learn_algorithm.py",
-				"/E/桌面文件/python 3 Tool/learn_set.py",
-				"/E/桌面文件/python 3 Tool/learn_list.py",
-				"/E/桌面文件/python 3 Tool/learn_str.py",
-				"/E/桌面文件/python 3 Tool/learn_number.py",
-				"/E/桌面文件/python 3 Tool/learn_operate.py",
-				"/F/new/LuaScript/Common/Lang.lua",
-				"/F/new/Editor/BundleTool/BuildBundle.cs",
-				"/F/new/LuaScript/UI/SelectCharacterUI/SelectCharBtnUI.lua",
-				"/E/桌面文件/Unity API 2018_4/Vector3Int",
-				"/E/桌面文件/Unity API 2018_4/Transform",
-				"/E/桌面文件/Unity API 2018_4/Time",
-				"/E/桌面文件/Unity API 2018_4/RectTransform",
-				"/E/桌面文件/Unity API 2018_4/Object",
-				"/E/桌面文件/Unity API 2018_4/MonoBehaviour",
-				"/E/桌面文件/python 3 Tool/copy file.py",
-				"/F/有用的软件/工作环境需要/ps切图脚本/psd删除原数据.jsx",
-				"/E/桌面文件/luaTest.lua",
-				"/E/桌面文件/python 3 Tool/learn_dict.py/",
-				"/E/桌面文件/python 3 Tool/learn_string.py",
-				"/E/桌面文件/python 3 Tool/learn_annotation.py",
-				"/F/有用的软件/工作环境需要/Sublime Text Build 3211 x64/Data/Packages/User/MyPython3.sublime-build",
-				"/F/有用的软件/工作环境需要/Sublime Text Build 3211 x64/Data/Packages/User/MyPython2.sublime-build",
-				"/F/有用的软件/Sublime Text Build 3211 x64/Data/Packages/User/Lua54.sublime-build",
-				"/C/lua-5.4.1/build.bat",
-				"/F/work/client/src/modules/bag/BagEvent.lua",
-				"/F/work/client/src/modules/bag/view/BagTipView.lua",
-				"/F/有用的软件/Sublime Text Build 3211 x64/破解说明.txt",
-				"/C/lua-5.4.1/Makefile",
-				"/C/lua-5.4.1/build.bat.txt",
-				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/Lua54.sublime-build",
-				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/show_lang_tips.py",
-				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/example.py",
-				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/Data/Packages/User/learn_sublime.py",
-				"/F/work/client/src/ui/TreeBaseItem.lua",
-				"/F/work/client/src/modules/bag/BagView.lua",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/D/QQ浏览器下载/Sublime Text Build 3211 x64(1)/破解说明.txt"
+				"/E/桌面文件/python 3 Tool/learn_algorithm.py"
 			],
 			"find":
 			{
@@ -369,23 +1270,153 @@
 				"height": 104.8,
 				"where_history":
 				[
+					"D:\\teon2-unity-client-poc\\Assets",
+					"D:\\teon2-unity-client-poc\\Assets\\LuaScript",
+					"D:\\teon2-unity-client-poc\\Assets",
+					"D:\\teon2-unity-client-poc\\Assets\\LuaScript",
+					"D:\\teon2-unity-client-poc\\Assets",
+					"D:\\teon2-unity-client-poc\\Assets\\LuaScript",
+					"D:\\teon2-unity-client-poc\\Assets\\LuaScript\\UI\\BagUI",
+					"D:\\teon2-unity-client-poc\\Assets",
+					"D:\\teon2-unity-client-poc\\Assets\\LuaScript",
+					"D:\\teon2-unity-client-poc\\Assets",
 					"F:\\new",
 					""
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
-					"resConfig",
-					"login",
-					"ATTR_ID",
-					"initWindowCallback",
-					"(",
-					"2",
-					"))\n",
-					"单"
+					"update all bundle name",
+					"SORT_ITEM_TYPE",
+					"sort_item_type",
+					"use_type",
+					"updateGridSelect",
+					"ETCITEM_SORT_ITEM_TYPE",
+					"userDataToTable",
+					"ETCITEM_SORT_ITEM_TYPE",
+					"-1",
+					"00",
+					"WEAPEN",
+					"onSelectToggle",
+					"toggle_type",
+					"sort_item_id_list",
+					"setBagMainUIToggle",
+					"set_bag_main_ui_toggle",
+					"switch",
+					"SWITCH",
+					"switch",
+					"SWITCH",
+					"PLAYER_BAG_TYPE_SWITCH",
+					"WEAPEN",
+					"cur_toggle",
+					"getBagMainUIToggle",
+					"getBagMainUIGridData",
+					"get_bag_main_ui_grid_data",
+					"ITEM_EQUIP_TYPE",
+					"ITEM_TYPE",
+					"ITEM_SCROLL_TYPE[item_data.item_info.item_type]",
+					"ITEM_CONSUME_TYPE[item_data.item_info.item_type]",
+					"ITEM_EQUIP_TYPE[item_data.item_info.item_type]",
+					"weapen",
+					"Weapen",
+					"weapen",
+					"equip",
+					"item_info",
+					"ITEM_SCROLL_TYPE[item_type]",
+					"PLAYER_BAG_TYPE_SWITCH.EQUIP",
+					"PLAYER_BAG_TYPE_SWITCH",
+					"getSortItemType",
+					"item_info",
+					"item_type",
+					"is_bind",
+					"item_info",
+					"name",
+					"big_type",
+					"item_type",
+					"ITEM_TYPE",
+					"or",
+					"        or",
+					"        ",
+					",",
+					"tExportCondition",
+					"GetExportConditionInfo",
+					"ExportSeverCSVInfo",
+					"tDefineFileName",
+					"ExportSeverCSVInfo",
+					"tSPath",
+					"ExportSeverCSVInfo",
+					"ExportServerCSVInfo",
+					"mServerPath",
+					"ExportSeverCSVInfo",
+					"ExportServerCSVInfo",
+					"ClientItemInfo.csv",
+					"ProcessBuildBD",
+					"导出DB",
+					"..\\..\\Teon2Client\\Assets\\ResourceInfo\\Config",
+					"ExportCSV",
+					"ExportCSVWin",
+					"exportcsv",
+					"cur_win_id",
+					"index",
+					"self",
+					"updateLeftBtn",
+					"|",
+					"hp_slider",
+					"PlayerMainHotKeyUI",
+					"select_bg_obj",
+					"updateSelect",
+					"updatePageGridSelectUI",
+					"onClickBagMainUIGrid",
+					"getPageGridData",
+					"cur_page_index",
+					"default_index",
+					"getPageItemIndexByDataIndex",
+					"on_click_left_tab_btn",
+					"onclicklefttabbtn",
+					"desc_txt",
+					"ENTER_GAME",
+					"SetLanuageText",
+					"createBagMainUI",
+					"print",
+					"resourceconfig",
+					"uicamera",
+					"onClickGrid",
+					"initDataList",
+					"saveHotKey",
+					"confirm_call_func",
+					"isNeedShowSecondaryPopupView",
+					"uiScrollGoToPos",
+					"data_index",
+					"updateImgPoint",
+					"init_num",
+					"uiScrollGoToPos",
+					"page_list",
+					"ActiveUIButtonGray",
+					"UnActiveUIButtonGray",
+					"updateComfirmBtnGray",
+					"ishadChange",
+					"onClickComfirmBtn",
+					"on_click_img_point",
+					"bg_img",
+					"scrollViewGoToPos",
+					"on_click_left_tab_btn",
+					"onClickImgPoint",
+					"on_click_img_point",
+					"set_page_index",
+					"init_num",
+					"getPageDataIndexByItemIndex",
+					"item",
+					"Item",
+					"item",
+					"data_index",
+					"getSelfByDataIndex",
+					"isNeedShowSecondaryPopupView",
+					"onClickCancelBtn",
+					"LOCK_HOTKEY_INDEX",
+					"onClickLeftTabBtn"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -397,145 +1428,54 @@
 				"reverse": false,
 				"show_context": false,
 				"use_buffer2": true,
-				"whole_word": true,
+				"whole_word": false,
 				"wrap": true
 			},
 			"folders":
 			[
 				{
-					"path": "E:\\桌面文件"
+					"path": "D:\\aaaaaa\\Lua test"
 				},
 				{
-					"path": "F:\\work\\client\\src"
+					"path": "D:\\aaaaaa\\Lua Tool"
 				},
 				{
-					"path": "F:\\new"
-				},
-				{
-					"path": "D:\\work\\python 3 Tool"
-				},
-				{
-					"path": "D:\\myGitHupTest"
+					"path": "D:\\aaaaaa\\python 3 Tool"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
+							"file": "/D/aaaaaa/Lua Tool/save.lua",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 366,
-								"regions":
-								{
-									"match":
-									{
-										"flags": 112,
-										"regions":
-										[
-											[
-												194,
-												203
-											],
-											[
-												263,
-												272
-											],
-											[
-												328,
-												337
-											],
-											[
-												366,
-												366
-											]
-										],
-										"scope": ""
-									}
-								},
-								"selection":
-								[
-									[
-										199,
-										199
-									]
-								],
-								"settings":
-								{
-									"detect_indentation": false,
-									"line_numbers": false,
-									"output_tag": 6,
-									"result_base_dir": "",
-									"result_file_regex": "^([^ \t].*):$",
-									"result_line_regex": "^ +([0-9]+):",
-									"scroll_past_end": true,
-									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/work/python 3 Tool/luatest.lua",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 12,
+								"buffer_size": 576,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										9,
-										9
+										225,
+										225
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Lua/Lua.sublime-syntax"
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/myGitHupTest/test.lua",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 45,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										45,
-										45
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Lua/Lua.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -574,14 +1514,14 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 178.0
+				"height": 311.0
 			},
 			"output.find_results":
 			{
 				"height": 127.0
 			},
-			"pinned_build_system": "Packages/User/MyPython3.sublime-build",
-			"position": "0,0,1,-1,-1,-1,-1,1130,765,53,2010",
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,1162,278,83,1843",
 			"project": "",
 			"replace":
 			{
@@ -594,6 +1534,306 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"hotkey",
+						"Assets\\LuaScript\\Controller\\HotKeyController.lua"
+					],
+					[
+						"re",
+						"Assets\\Editor\\resConfig.info"
+					],
+					[
+						"item",
+						"Assets\\LuaScript\\Struct\\ItemInfo.lua"
+					],
+					[
+						"bagin",
+						"Assets\\LuaScript\\Struct\\BagInfo.lua"
+					],
+					[
+						"bagco",
+						"Assets\\LuaScript\\Controller\\BagController.lua"
+					],
+					[
+						"bagm",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainUI.lua"
+					],
+					[
+						"const",
+						"Assets\\LuaScript\\Common\\Const.lua"
+					],
+					[
+						"bagc",
+						"Assets\\LuaScript\\Controller\\BagController.lua"
+					],
+					[
+						"itemifn",
+						"Assets\\LuaScript\\Struct\\ItemInfo.lua"
+					],
+					[
+						"ExportCSVWin",
+						"Assets\\Editor\\UserDefineTools\\ExportCSVWin.cs"
+					],
+					[
+						"playerma",
+						"Assets\\LuaScript\\UI\\PlayerUI\\PlayerMainUI.lua"
+					],
+					[
+						"playe",
+						"Assets\\LuaScript\\Controller\\PlayerController.lua"
+					],
+					[
+						"playermain",
+						"Assets\\LuaScript\\UI\\PlayerUI\\PlayerMainHotKeyUI.lua"
+					],
+					[
+						"hot",
+						"Assets\\LuaScript\\Controller\\HotKeyController.lua"
+					],
+					[
+						"second",
+						"Assets\\LuaScript\\UI\\PopupErrorUI\\SecondaryPopupUI.lua"
+					],
+					[
+						"bag",
+						"Assets\\LuaScript\\Controller\\BagController.lua"
+					],
+					[
+						"hotkeypa",
+						"Assets\\LuaScript\\UI\\HotKeyUI\\HotKeyPageUI.lua"
+					],
+					[
+						"",
+						"Assets\\LuaScript\\Manager\\HotKeyManager.lua"
+					],
+					[
+						"hotkeym",
+						"Assets\\LuaScript\\Manager\\HotKeyManager.lua"
+					],
+					[
+						"kotkey",
+						"Assets\\LuaScript\\UI\\HotKeyUI\\HotKeyPageUI.lua"
+					],
+					[
+						"hotkeyc",
+						"Assets\\LuaScript\\Controller\\HotKeyController.lua"
+					],
+					[
+						"hotkeyui",
+						"Assets\\LuaScript\\UI\\HotKeyUI\\HotKeyUI.lua"
+					],
+					[
+						"pag",
+						"Assets\\LuaScript\\UI\\HotKeyUI\\HotKeyPageUI.lua"
+					],
+					[
+						"luatoc",
+						"Assets\\Script\\Common\\LuaToCSharp.cs"
+					],
+					[
+						"luato",
+						"Assets\\Script\\Common\\LuaToCSharp.cs"
+					],
+					[
+						"bagmain",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainGirdUI.lua"
+					],
+					[
+						"hotkeymanager",
+						"Assets\\LuaScript\\Manager\\HotKeyManager.lua"
+					],
+					[
+						"event",
+						"Assets\\LuaScript\\Common\\Event.lua"
+					],
+					[
+						"hotkeycon",
+						"Assets\\LuaScript\\Controller\\HotKeyController.lua"
+					],
+					[
+						"plc",
+						"Assets\\LuaScript\\Controller\\PlayerController.lua"
+					],
+					[
+						"playermainu",
+						"Assets\\LuaScript\\UI\\PlayerUI\\PlayerMainUI.lua"
+					],
+					[
+						"play",
+						"Assets\\LuaScript\\Controller\\PlayerController.lua"
+					],
+					[
+						"bagmana",
+						"Assets\\LuaScript\\Manager\\BagInfoManager.lua"
+					],
+					[
+						"luaui",
+						"Assets\\LuaScript\\Framework\\LuaUILoadObject.lua"
+					],
+					[
+						"uiho",
+						"Assets\\LuaScript\\UI\\HotKeyUI\\HotKeyUI.lua"
+					],
+					[
+						"bagmaing",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainGirdUI.lua"
+					],
+					[
+						"netms",
+						"Assets\\LuaScript\\Common\\NetMsgProcess.lua"
+					],
+					[
+						"baginfo",
+						"Assets\\LuaScript\\Manager\\BagInfoManager.lua"
+					],
+					[
+						"baginf",
+						"Assets\\LuaScript\\Manager\\BagInfoManager.lua"
+					],
+					[
+						"bagbase",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"itemco",
+						"Assets\\LuaScript\\Config\\ItemConfig.lua"
+					],
+					[
+						"luauil",
+						"Assets\\LuaScript\\Framework\\LuaUILoadObject.lua"
+					],
+					[
+						"lu",
+						"Assets\\LuaScript\\Framework\\LuaUILoadObject.lua"
+					],
+					[
+						"bagba",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"bagma",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainGirdUI.lua"
+					],
+					[
+						"lua",
+						"Assets\\LuaScript\\Framework\\LuaUILoadObject.lua"
+					],
+					[
+						"bagbse",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"bagmai",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainUI.lua"
+					],
+					[
+						"lo",
+						"Assets\\LuaScript\\UI\\LoginUI\\LoginUI.lua"
+					],
+					[
+						"bagbag",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"itemif",
+						"Assets\\LuaScript\\Struct\\ItemInfo.lua"
+					],
+					[
+						"bagi",
+						"Assets\\LuaScript\\Struct\\BagInfo.lua"
+					],
+					[
+						"cust",
+						"Assets\\Editor\\Custom\\CustomSettings.cs"
+					],
+					[
+						"iteminfo",
+						"Assets\\LuaScript\\Struct\\ItemInfo.lua"
+					],
+					[
+						"reconf",
+						"Assets\\Editor\\resConfig.info"
+					],
+					[
+						"baggri",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"iteminf",
+						"Assets\\LuaScript\\Struct\\ItemInfo.lua"
+					],
+					[
+						"bagmang",
+						"Assets\\LuaScript\\Manager\\BagInfoManager.lua"
+					],
+					[
+						"itemcon",
+						"Assets\\LuaScript\\Config\\ItemConfig.lua"
+					],
+					[
+						"luatoch",
+						"Assets\\Script\\Common\\LuaToCSharp.cs"
+					],
+					[
+						"bagmian",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainUI.lua"
+					],
+					[
+						"baginfoma",
+						"Assets\\LuaScript\\Manager\\BagInfoManager.lua"
+					],
+					[
+						"bagmianu",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainUI.lua"
+					],
+					[
+						"baggir",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainGirdUI.lua"
+					],
+					[
+						"playerkh",
+						"Assets\\LuaScript\\Controller\\PlayerHotKeyController.lua"
+					],
+					[
+						"PlayerMainHotKeyItemUI",
+						"Assets\\LuaScript\\UI\\PlayerUI\\PlayerMainHotKeyItemUI.lua"
+					],
+					[
+						"d",
+						"Assets\\LuaScript\\Debug\\Debug.lua"
+					],
+					[
+						"sup",
+						"Assets\\LuaScript\\Framework\\SupperClass.lua"
+					],
+					[
+						"logu",
+						"Assets\\LuaScript\\UI\\LoginUI\\LoginUI.lua"
+					],
+					[
+						"uima",
+						"Assets\\LuaScript\\Framework\\UIManager.lua"
+					],
+					[
+						"wind",
+						"Assets\\LuaScript\\Framework\\WindowController.lua"
+					],
+					[
+						"bagg",
+						"Assets\\LuaScript\\UI\\BagUI\\BagMainGirdUI.lua"
+					],
+					[
+						"bagbas",
+						"Assets\\LuaScript\\UI\\BagUI\\BagBaseGird.lua"
+					],
+					[
+						"bagcon",
+						"Assets\\LuaScript\\Controller\\BagController.lua"
+					],
+					[
+						"chatc",
+						"Assets\\LuaScript\\Controller\\ChatController.lua"
+					]
 				],
 				"width": 0.0
 			},
@@ -623,7 +1863,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 222.0,
+			"side_bar_width": 454.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

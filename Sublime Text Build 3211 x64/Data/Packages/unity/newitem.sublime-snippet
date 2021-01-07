@@ -15,10 +15,9 @@ ${1:${TM_FILENAME/(.+)\..+/$1/}} = class("$1", LuaUILoadObject)
 
 ----------------------------------------
 -- ctor
-function $1:ctor(asset_name, pre_obj, ower_ui)
-    self.super:ctor()
+function $1:ctor(asset_name, pre_obj)
+    LuaUILoadObject.ctor(self)
 
-    self.ower_ui = ower_ui
     self.ui = {}
 
     self:loadResource(asset_name, pre_obj)
@@ -28,14 +27,14 @@ end
 ----------------------------------------
 -- destory self & register function
 function $1:destory()
-    self.super.destory(self)
-
     local ui = self.ui
     if ui.close_btn_click_func then
         LuaToCSharp.RemoveButtonOnClick(ui.close_btn_right, ui.close_btn_click_func)
     end
 
     self.ui = nil
+
+    LuaUILoadObject.destory(self)
 end
 
 

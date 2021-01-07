@@ -17,7 +17,7 @@ $1 = class("$1", ControllerBase)
 ----------------------------------------
 -- ctor
 function $1:ctor()
-	self.super:ctor()
+	ControllerBase.ctor(self)
 
 	self:initInfo()
 	self:initEvent()

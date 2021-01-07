@@ -57,19 +57,22 @@
 ## 作用：删除文件夹中，相应类型的文件
 ####################################################
 
-# print(" 删除 开始 ")
-# import os, shutil
-# path = r"F:\有用的软件\工作环境需要\脚本"
+print(" 删除 开始 ")
+import os, shutil
+path = r"C:\Users\zezhang\Downloads\LuaScript(2)\LuaScript"
 
-# # 要删除的文件类型
-# exclude_ext = {".meta" : True}
-# for root, dirs, files in os.walk(path):
-# 	for file in files:
-# 		file_ext = os.path.splitext(file)[1]
-# 		if exclude_ext.get(file_ext):
-# 			os.remove(os.path.join(root, file))
-# 			print('删除文件->{}'.format(os.path.join(root, file)))
+# 要删除的文件类型
+exclude_ext = {".meta" : True}
+for root, dirs, files in os.walk(path):
+	for file in files:
+		file_ext = os.path.splitext(file)[1]
+		if exclude_ext.get(file_ext):
+			os.remove(os.path.join(root, file))
+			print('删除文件->{}'.format(os.path.join(root, file)))
 print(" 删除 结束 ")
 
 ####################################################
+# player main hot key item u i
+# player main hot key item u i
+# ["player_main_hot_key_item_u_i"] = self.PlayerMainHotKeyItemUI,
 

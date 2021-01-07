@@ -7,7 +7,9 @@ def get_lower_case_name(text):
         if char.isupper() and index != 0:
             lst.append("_")
         lst.append(char)
-    return "".join(lst).lower()
+    str = "".join(lst).lower()
+    str = str.replace("_u_i", "_ui")
+    return str
 
 class ChangeCopyStrPanel(sublime_plugin.TextCommand):
     def run(self, edit):
